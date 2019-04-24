@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 5px;
+    margin: 0;
+    text-align:center;
+    padding-top:25px;
+    
+}
+
+.social-links {
+    padding-bottom: 15px;
+  
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 30px;
+    line-height: 15px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #e84610;
+}
+
+
+
+
+/*--------------------------- HOME ------------------------------ */
+.bg { 
+  /* The image used */
+  background-image: url("../images/monkees.jpg");
+
+  /* Full height */
+  height: 100%;
+  width:100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.navbar a{
+  font-size: 20px;
+}
+
+/*-----------------------------About us--------------------------- */
+
+/* pictures band members */
+
+.member-prof{
+  margin:10px;
+}
+
+.member-prof h6{
+background-color: rgba(0,0,0,0.2);
+text-align: center;
+text-transform: capitalize;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+ img{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  
+}
+
+#main-section p{
+  font-family: "Roboto",sans-serif;
+}
+
+#main-section h3{
+  font-family: "Exo",sans-serif;
+}
+
+/*----------------------Gallery-------------*/
+
+#gallery img{
+  width: 270px;
+  height: 270px;
+  border:5px;
+  border-radius: 1px;
+  border-style:solid;
+  border-color:#000;
+  
+  
+}
+
+#gallery h2{
+  font-size: 41px;
+}
+
+/*------------------Audios-----------------*/
+
+#audios iframe{
+  padding:10px;
+  margin:20px;
+  border:10px;
+  border-radius: 10px;
+  border-style: solid;
+  margin-left:55px;
+}
+
+#audios h2{
+  padding-top: 15px;
+  padding-bottom: 10px;
+  font-size: 35px;
+  text-align: left;
+}
+
+
+/*-----------------------Conact us----------------*/
+
+#form-section h2{
+  padding-top: 10px;
+}
+
+
+
+/*---------------------Events------------------*/
+
+#upcoming-events h3{
+  padding-top:15px;
+}
+
+#upcoming-events p{
+  font-size:18px;
+}
+
+/*-------------------media queries----------*/
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+}
+  
+  
