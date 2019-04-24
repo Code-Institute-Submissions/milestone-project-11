@@ -40,7 +40,7 @@ A text-area to allow the fans to send messages.
 
 # Technologies Used 
  
-Languages : 1- HTML5 : to wite the code ,
+Languages : 1- HTML5 : to wite the code 
             2- CSS  : CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
             3-Javascript : To help/make some commands function.
             
@@ -75,25 +75,17 @@ Bugs discovered during this project:
 
 # Deployment
 
-1-Create new terminal on cloud 9
+1- After successfully pushing the files to github , the deployment starts.
 
+2- Changed the branch name to Master branch from page section in settings.
 
-2-Add all the files (HTML5 , CSS) using the "git add ." command , then commit the files using "commit -m "..." "
+3- A link was operated and that was my Website.
 
+Deployment: is making the website Live and accessible by anyone who opens the link provided.
 
-3-Create new repository on GitHub to allow me to upload files 
+Development: is using Git commands to upload the file used in the making of the website to GitHub in order to be downloaded or viewed by the assesor and checked.
 
-
-4-Follow the steps given on the webpage (copy links , add origin etc)
-
-
-5-Enter the username and password 
-
-
-6-Upload/Push all files to the Github page.
-
-
-Development - All files added later on such as the credits part that is added after the repository is added/made.
+To run my code locally, and ensure that it perfectly works, the user should download the source files used along with the HTML code and run it on their device.
 
 # Credits
 
