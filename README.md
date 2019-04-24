@@ -81,9 +81,9 @@ Bugs discovered during this project:
 
 3- A link was operated and that was my Website.
 
-Deployment: is making the website Live and accessible by anyone who opens the link provided.
+Deployment: is making the website live and ready to use by the users.
 
-Development: is using Git commands to upload the file used in the making of the website to GitHub in order to be downloaded or viewed by the assesor and checked.
+Development: is using Git commands to upload the files that were used in the process of making of the website to GitHub in order to be downloaded/cloned and viewed by the assesor for them to be checked.
 
 To run my code locally, and ensure that it perfectly works, the user should download the source files used along with the HTML code and run it on their device.
 
