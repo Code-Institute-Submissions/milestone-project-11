@@ -76,11 +76,22 @@ Bugs discovered during this project:
 # Deployment
 
 1-Create new terminal on cloud 9
-2-Add all the files (HTML5 , CSS) using the "git add ." command , then commit the files using "commit -m "..." " 
+
+
+2-Add all the files (HTML5 , CSS) using the "git add ." command , then commit the files using "commit -m "..." "
+
+
 3-Create new repository on GitHub to allow me to upload files 
+
+
 4-Follow the steps given on the webpage (copy links , add origin etc)
+
+
 5-Enter the username and password 
+
+
 6-Upload/Push all files to the Github page.
+
 
 Development - All files added later on such as the credits part that is added after the repository is added/made.
 
